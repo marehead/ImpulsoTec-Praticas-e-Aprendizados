@@ -8,5 +8,5 @@
 - AWS / Cloud Computing
 - Redes
 
-### Práticas e Aprendizados 3 Meses de Residência: [#3MonthsOfCode](https://github.com/mlopezlr/ImpulsoTec-Praticas-e-Aprendizados/blob/main/3MonthsOfCode)
+### Práticas e Aprendizados 3 Meses de Residência: [#3MonthsOfCode]()
 
